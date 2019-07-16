@@ -1,0 +1,2 @@
+uname -a = kernel version check
+uname -r = kernel all version check
